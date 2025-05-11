@@ -1,17 +1,19 @@
 ### 👋 Hi there, I'm Mohammad Kasiri
 
-I'm a researcher and developer passionate about **VR/XR**, **3D graphics**, and **human-computer interaction**. I specialize in creating immersive systems and experiences using tools such as **Microsoft Kinect**, **Oculus Quest**, **Unreal Engine**, **Unity**, **WebGL**, and **OpenGL**.
+I'm a front-end developer and creative technologist passionate about building **interactive**, **3D**, and **immersive web experiences**. I specialize in technologies like **React**, **Next.js**, **Three.js**, and **WebGL**, and love crafting seamless UI/UX for modern web applications.
+
+With a strong background in **VR/XR** and **computer graphics**, I blend artistic vision with technical expertise to bring interfaces and experiences to life — whether it's on a screen or in extended reality.
 
 ---
 
 #### 🔧 Skills  
-`Unity` · `Unreal Engine` · `WebGL` · `OpenGL` · `ReactJS` · `Scikit-learn`
+`React.js` · `Next.js` · `Three.js` · `Zustand` · `Tailwind CSS` · `GSAP` . `Framer Motion` · `WebGL` · `Unity` · `Unreal Engine`
 
 ---
 
-- 🔭 Currently working on **Computer Graphics** and **Social Virtual Reality**  
-- 🌱 Learning **Game AI** and **Machine Learning**  
-- 📫 Reach me at: **mkgh7030@gmail.com**  
+- 🔭 Currently working on **interactive 3D web projects** and **AR/VR interfaces**  
+- 🌱 Exploring **AI-assisted UX**, **WebXR**, and **shader programming**  
+- 📨 Reach me at: **mkgh7030@gmail.com**  
 - 🌐 Portfolio: [mokasiri-portfolio.vercel.app](https://mokasiri-portfolio.vercel.app)
 
 ---
@@ -19,7 +21,7 @@ I'm a researcher and developer passionate about **VR/XR**, **3D graphics**, and 
 ### 🌍 Connect with me  
 
 <a href="https://github.com/mo-kasiri" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" color="white" height="30" style="color: white; filter: invert(100%); margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" style="filter: invert(100%); margin-right: 10px;">
 </a>
 <a href="https://www.linkedin.com/in/mohammad-kasiri-979b8513a/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="filter: invert(100%); margin-right: 10px;">
