@@ -1,18 +1,19 @@
+
 ### 👋 Hi there, I'm Mohammad Kasiri
 
-I'm a front-end developer and creative technologist passionate about building **interactive**, **3D**, and **immersive web experiences**. I specialize in technologies like **React**, **Next.js**, **Three.js**, and **WebGL**, and love crafting seamless UI/UX for modern web applications.
+I'm a **computer graphics researcher**, front-end developer, and creative technologist with a passion for building **interactive**, **3D**, and **immersive web experiences**. I specialize in technologies such as **React**, **Next.js**, **Three.js**, and **WebGL**, combining cutting-edge graphics with intuitive user interfaces.
 
-With a strong background in **VR/XR** and **computer graphics**, I blend artistic vision with technical expertise to bring interfaces and experiences to life — whether it's on a screen or in extended reality.
+With a strong academic and practical background in **VR/XR**, **shader programming**, and **real-time rendering**, I bring both **technical depth** and **artistic vision** to every project — whether it's on the web, in virtual reality, or in an interactive installation.
 
 ---
 
 #### 🔧 Skills  
-`React.js` · `Next.js` · `Three.js` · `Zustand` · `Tailwind CSS` · `GSAP` . `Framer Motion` · `WebGL` · `Unity` · `Unreal Engine`
+`React.js` · `Next.js` · `Three.js` · `Zustand` · `Tailwind CSS` · `GSAP` · `Framer Motion` · `WebGL` · `Unity` · `Unreal Engine`
 
 ---
 
-- 🔭 Currently working on **interactive 3D web projects** and **AR/VR interfaces**  
-- 🌱 Exploring **AI-assisted UX**, **WebXR**, and **shader programming**  
+- 🔭 Currently working on **interactive 3D web applications** and **XR interfaces**  
+- 🌱 Exploring **AI-driven UX**, **WebXR**, and **procedural shaders**  
 - 📨 Reach me at: **mkgh7030@gmail.com**  
 - 🌐 Portfolio: [mokasiri-portfolio.vercel.app](https://mokasiri-portfolio.vercel.app)
 
@@ -38,4 +39,4 @@ With a strong background in **VR/XR** and **computer graphics**, I blend artisti
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-kasiri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-kasiri&hide_progress=false)
