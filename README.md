@@ -8,7 +8,7 @@ With a strong academic and practical background in **VR/XR**, **shader programmi
 ---
 
 #### 🔧 Skills  
-`React.js` · `Next.js` · `Three.js` · `Zustand` · `Tailwind CSS` · `GSAP` · `Framer Motion` · `WebGL` · `Unity` · `Unreal Engine`
+`React.js` · `Next.js` · `Three.js` · `Zustand` · `Tailwind CSS` · `GSAP` . `SDL2`. `OpenGL`. `WebGL` · `Framer Motion` · `WebGL` · `Unity` · `Unreal Engine`
 
 ---
 
