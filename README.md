@@ -1,7 +1,7 @@
 
 ### 👋 Hi there, I'm Mohammad Kasiri
 
-I'm a **computer graphics researcher**, front-end developer, and creative technologist with a passion for building **interactive**, **3D**, and **immersive experiences**. I specialize in technologies such as **React**, **Next.js**, **Three.js**, and **WebGL**, combining cutting-edge graphics with intuitive user interfaces.
+I'm a **computer graphics researcher**, **interaction designer**, and creative technologist with a passion for building **interactive**, **3D**, and **immersive experiences**. I specialize in technologies such as **React**, **Next.js**, **Three.js**, and **WebGL**, combining cutting-edge graphics with intuitive user interfaces.
 
 With a strong academic and practical background in **VR/XR**, **shader programming**, **UI/UX design** and **real-time rendering**, I bring both **technical depth** and **artistic vision** to every project — whether it's on the web, in virtual reality, or in an interactive installation.
 
