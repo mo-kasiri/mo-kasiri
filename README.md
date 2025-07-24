@@ -1,19 +1,19 @@
 
 ### 👋 Hi there, I'm Mohammad Kasiri
 
-I'm a **computer graphics researcher**, front-end developer, and creative technologist with a passion for building **interactive**, **3D**, and **immersive web experiences**. I specialize in technologies such as **React**, **Next.js**, **Three.js**, and **WebGL**, combining cutting-edge graphics with intuitive user interfaces.
+I'm a **computer graphics researcher**, front-end developer, and creative technologist with a passion for building **interactive**, **3D**, and **immersive experiences**. I specialize in technologies such as **React**, **Next.js**, **Three.js**, and **WebGL**, combining cutting-edge graphics with intuitive user interfaces.
 
-With a strong academic and practical background in **VR/XR**, **shader programming**, and **real-time rendering**, I bring both **technical depth** and **artistic vision** to every project — whether it's on the web, in virtual reality, or in an interactive installation.
+With a strong academic and practical background in **VR/XR**, **shader programming**, **UI/UX design** and **real-time rendering**, I bring both **technical depth** and **artistic vision** to every project — whether it's on the web, in virtual reality, or in an interactive installation.
 
 ---
 
 #### 🔧 Skills  
-`React.js` · `Next.js` · `Three.js` · `Zustand` · `Tailwind CSS` · `GSAP` . `SDL2`. `OpenGL`. `WebGL` · `Framer Motion` · `WebGL` · `Unity` · `Unreal Engine`
+`Godot` `React.js` · `Three.js` . `SDL2`. `OpenGL`. `WebGL` · `Unity`
 
 ---
 
-- 🔭 Currently working on **interactive 3D web applications** and **XR interfaces**  
-- 🌱 Exploring **AI-driven UX**, **WebXR**, and **procedural shaders**  
+- 🔭 Currently working on **Godot Engine** and **XR interfaces**  
+- 🌱 Exploring **AI-driven UX** , and **self driving cars**  
 - 📨 Reach me at: **mkgh7030@gmail.com**  
 - 🌐 Portfolio: [mokasiri-portfolio.vercel.app](https://mokasiri-portfolio.vercel.app)
 
