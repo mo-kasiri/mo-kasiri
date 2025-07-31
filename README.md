@@ -8,11 +8,11 @@ With a strong academic and practical background in **VR/XR**, **shader programmi
 ---
 
 #### 🔧 Skills  
-`Godot` `React.js` · `Three.js` . `SDL2`. `OpenGL`. `WebGL` · `Unity`
+`Unity` `React.js` · `Three.js` . `SDL2`. `OpenGL`. `WebGL`
 
 ---
 
-- 🔭 Currently working on **Godot Engine** and **XR interfaces**  
+- 🔭 Currently working on **Game AI** and **XR interfaces**  
 - 🌱 Exploring **AI-driven UX** , and **self driving cars**  
 - 📨 Reach me at: **mkgh7030@gmail.com**  
 - 🌐 Portfolio: [mokasiri-portfolio.vercel.app](https://mokasiri-portfolio.vercel.app)
