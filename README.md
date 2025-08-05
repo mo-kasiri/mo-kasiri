@@ -1,25 +1,30 @@
+### 👋 Hey, I’m Mohammad Kasiri
 
-### 👋 Hi there, I'm Mohammad Kasiri
+I'm a **computer graphics and HCI researcher**, **interaction designer**, and **creative technologist** focused on building **interactive**, **3D**, and **immersive experiences**. My work bridges the gap between **art and code**, combining elegant user interfaces with cutting-edge real-time graphics.
 
-I'm a **computer graphics researcher**, **interaction designer**, and creative technologist with a passion for building **interactive**, **3D**, and **immersive experiences**. I specialize in technologies such as **React**, **Next.js**, **Three.js**, and **WebGL**, combining cutting-edge graphics with intuitive user interfaces.
-
-With a strong academic and practical background in **VR/XR**, **shader programming**, **UI/UX design** and **real-time rendering**, I bring both **technical depth** and **artistic vision** to every project — whether it's on the web, in virtual reality, or in an interactive installation.
-
----
-
-#### 🔧 Skills  
-`Unity` `React.js` · `Three.js` . `SDL2`. `OpenGL`. `WebGL`
+My toolbox includes **React**, **Next.js**, **Three.js**, and **WebGL**—technologies I use to craft dynamic web applications, virtual worlds, and experimental interfaces that push the boundaries of interaction.
 
 ---
 
-- 🔭 Currently working on **Game AI** and **XR interfaces**  
-- 🌱 Exploring **AI-driven UX** , and **self driving cars**  
-- 📨 Reach me at: **mkgh7030@gmail.com**  
+### 🔬 What I Do
+
+- 🧠 Researching **Game AI** and **XR interfaces**
+- 🎮 Developing **immersive, real-time experiences** using **shader programming**, **Unity**, and **OpenGL**
+- 🤖 Exploring the intersection of **AI**, **UX**, and **autonomous systems**
+- 🎨 Designing intuitive and responsive **UI/UX for interactive media**
+
+---
+
+### 🧰 Technologies & Tools
+
+`React.js` · `Next.js` · `Three.js` · `Unity` · `OpenGL` · `WebGL` · `SDL2` · `Shader Programming` · `UX Design` · `GLSL`
+
+---
+
+### 📫 Let’s Connect
+
+- 📬 Email: **mkgh7030@gmail.com**
 - 🌐 Portfolio: [mokasiri-portfolio.vercel.app](https://mokasiri-portfolio.vercel.app)
-
----
-
-### 🌍 Connect with me  
 
 <a href="https://github.com/mo-kasiri" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" style="filter: invert(100%); margin-right: 10px;">
