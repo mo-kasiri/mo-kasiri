@@ -17,7 +17,7 @@ My toolbox includes **React**, **Next.js**, **Three.js**, and **WebGL**—techno
 
 ### 🧰 Technologies & Tools
 
-`React.js` · `Next.js` · `Three.js` · `Unity` · `OpenGL` · `WebGL` · `SDL2` · `Shader Programming` · `UX Design` · `GLSL`
+`React.js` · `Next.js` · `Three.js` · `Unity` `Godot` · `OpenGL` · `WebGL` · `SDL2` · `Shader Programming` · `UX Design` · `GLSL`
 
 ---
 
